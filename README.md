@@ -20,4 +20,4 @@ To install a skill, simply paste its GitHub URL into Claude Code and ask Claude 
 
 ## About
 
-These skills were created by [Peter Hartree](https://x.com/peterhartree). For updates, follow my [AI Uplift](https://wow.pjh.is) newsletter.
+These skills were created by [Peter Hartree](https://x.com/peterhartree). For updates, follow [AI Wow](https://wow.pjh.is), my AI uplift newsletter.
