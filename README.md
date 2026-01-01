@@ -20,6 +20,4 @@ To install a skill, simply paste its GitHub URL into Claude Code and ask Claude 
 
 ## About
 
-These skills are maintained by [HartreeWorks](https://github.com/HartreeWorks). Each skill repository follows the naming convention `skill--{skill-name}`.
-
-For more information about Claude Code skills, see the [Claude Code documentation](https://docs.anthropic.com/en/docs/claude-code).
+These skills were created by [Peter Hartree](https://x.com/peterhartree). For updates, follow my [AI Uplift](https://wow.pjh.is) newsletter.
