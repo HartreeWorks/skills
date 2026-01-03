@@ -12,6 +12,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 
 | Skill | Description |
 |-------|-------------|
+| [check-skill-updates](https://github.com/HartreeWorks/skill--check-skill-updates) | Check for and apply updates to shared Claude Code skills. |
 | [make-image](https://github.com/HartreeWorks/skill--make-image) | Generate, edit, and upscale images using Krea AI. |
 | [project-management](https://github.com/HartreeWorks/skill--project-management) | Manage projects with scaffolding, Google Docs integration, and memory. |
 | [schedule-task](https://github.com/HartreeWorks/skill--schedule-task) | Manage macOS launchd LaunchAgents for scheduled command execution. |
