@@ -15,6 +15,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [make-image](https://github.com/HartreeWorks/skill--make-image) | Generate, edit, and upscale images using Krea AI. |
 | [project-management](https://github.com/HartreeWorks/skill--project-management) | Manage projects with scaffolding, Google Docs integration, and memory. |
 | [schedule-task](https://github.com/HartreeWorks/skill--schedule-task) | Manage macOS launchd LaunchAgents for scheduled command execution. |
+| [share-skill](https://github.com/HartreeWorks/skill--share-skill) | Convert private skills into public GitHub repositories with security review. |
 | [secure-mcp-install](https://github.com/HartreeWorks/skill--secure-mcp-install) | Security-focused workflow to audit and install MCP servers at pinned commits. |
 | [slack](https://github.com/HartreeWorks/skill--slack) | Send and read Slack messages, check notifications, and search message history. |
 | [transcribe-audio](https://github.com/HartreeWorks/skill--transcribe-audio) | Transcribe audio files using Parakeet MLX. |
