@@ -23,7 +23,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [save-conversation](https://github.com/HartreeWorks/skill--save-conversation) | Export Claude Code conversations to readable markdown files. |
 | [schedule-task](https://github.com/HartreeWorks/skill--schedule-task) | Manage macOS launchd LaunchAgents for scheduled command execution. |
 | [send-email](https://github.com/HartreeWorks/skill--send-email) | Send emails via Gmail SMTP with preview and confirmation. Simple App Password auth - no API keys needed. |
-| [share-command](https://github.com/HartreeWorks/claude-commands) | Publish user-defined commands to the HartreeWorks/claude-commands repository. |
+| [share-command](https://github.com/HartreeWorks/skill--share-command) | Publish user-defined commands to the HartreeWorks/claude-commands repository. |
 | [share-plugin](https://github.com/HartreeWorks/skill--share-plugin) | Publish plugins to the HartreeWorks plugins marketplace. |
 | [share-skill](https://github.com/HartreeWorks/skill--share-skill) | Convert private skills into public GitHub repositories with security review. |
 | [secure-mcp-install](https://github.com/HartreeWorks/skill--secure-mcp-install) | Security-focused workflow to audit and install MCP servers at pinned commits. |
