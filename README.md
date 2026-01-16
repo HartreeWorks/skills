@@ -4,7 +4,7 @@ A collection of skills for [Claude Code](https://claude.com/claude-code) and oth
 
 Created by [Peter Hartree](https://x.com/peterhartree) of [AI Wow](https://wow.pjh.is).
 
-> ⚠️ **Note:** These are skills I’ve made for my own use. Many are very half-baked — shared for inspiration rather than as polished tools.
+> ⚠️ **Note:** These are skills I’ve made for my own use. Some are very half-baked — shared for inspiration rather than as polished tools.
 
 ## Installation
 
