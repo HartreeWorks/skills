@@ -4,11 +4,11 @@ A collection of skills for [Claude Code](https://claude.com/claude-code) and oth
 
 Created by [Peter Hartree](https://x.com/peterhartree) of [AI Wow](https://wow.pjh.is).
 
+> ⚠️ **Note:** These are skills I’ve made for my own use. Many are very half-baked — shared for inspiration rather than as polished tools.
+
 ## Installation
 
 Paste the GitHub URL into Claude Code, and ask it to install the skill.
-
-> ⚠️ **Note:** These skills are under active development for my own purposes. They're iterating quickly and many are half-baked — shared more for inspiration than as polished tools you should copy directly.
 
 ## Available skills
 
