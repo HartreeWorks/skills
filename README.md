@@ -29,6 +29,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [secure-mcp-install](https://github.com/HartreeWorks/skill--secure-mcp-install) | Security-focused workflow to audit and install MCP servers at pinned commits. |
 | [slack](https://github.com/HartreeWorks/skill--slack) | Send and read Slack messages, check notifications, and search message history. |
 | [summarise-granola](https://github.com/HartreeWorks/skill--summarise-granola) | Extract and summarise meeting transcripts from the Granola app. |
+| [sync-skill-to-claude-desktop](https://github.com/HartreeWorks/skill--sync-skill-to-claude-desktop) | Upload Claude Code skills to claude.ai for use in Claude Desktop. |
 | [transcribe-audio](https://github.com/HartreeWorks/skill--transcribe-audio) | Transcribe audio files using Parakeet MLX. |
 | [transcribe-call](https://github.com/HartreeWorks/skill--transcribe-call) | Record and transcribe meetings/calls using local Parakeet MLX transcription. |
 | [transcribe-twitter-video](https://github.com/HartreeWorks/skill--transcribe-twitter-video) | Download and transcribe audio from Twitter/X video posts. |
