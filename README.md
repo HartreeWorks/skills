@@ -14,6 +14,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 |-------|-------------|
 | [ask-many-models](https://github.com/HartreeWorks/skill--ask-many-models) | Query multiple AI models in parallel and synthesise responses into unified analysis. |
 | [audit-mac-app](https://github.com/HartreeWorks/skill--audit-mac-app) | Security audit macOS applications before granting sensitive permissions. |
+| [chief-of-staff](https://github.com/HartreeWorks/skill--chief-of-staff) | Daily briefings integrating calendar, projects, activity tracking, and AI capability suggestions. |
 | [download-twitter-video](https://github.com/HartreeWorks/skill--download-twitter-video) | Download videos from Twitter/X posts using yt-dlp. |
 | [french-tutor](https://github.com/HartreeWorks/skill--french-tutor) | French language tutor for translation, correction, and answering questions. |
 | [lesswrong-and-ea-forum](https://github.com/HartreeWorks/claude-skill--lesswrong-and-ea-forum) | Read, search, and create draft posts on LessWrong and EA Forum. |
