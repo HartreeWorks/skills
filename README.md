@@ -15,6 +15,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [ask-many-models](https://github.com/HartreeWorks/skill--ask-many-models) | Query multiple AI models in parallel and synthesise responses into unified analysis. |
 | [audit-mac-app](https://github.com/HartreeWorks/skill--audit-mac-app) | Security audit macOS applications before granting sensitive permissions. |
 | [download-twitter-video](https://github.com/HartreeWorks/skill--download-twitter-video) | Download videos from Twitter/X posts using yt-dlp. |
+| [french-tutor](https://github.com/HartreeWorks/skill--french-tutor) | French language tutor for translation, correction, and answering questions. |
 | [lesswrong-and-ea-forum](https://github.com/HartreeWorks/claude-skill--lesswrong-and-ea-forum) | Read, search, and create draft posts on LessWrong and EA Forum. |
 | [make-image](https://github.com/HartreeWorks/skill--make-image) | Generate, edit, and upscale images using Krea AI. |
 | [mochi-srs](https://github.com/HartreeWorks/skill--mochi-srs) | Create and manage spaced repetition flashcards in Mochi. |
