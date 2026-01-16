@@ -8,6 +8,8 @@ Created by [Peter Hartree](https://x.com/peterhartree) of [AI Wow](https://wow.p
 
 Paste the GitHub URL into Claude Code, and ask it to install the skill.
 
+> ⚠️ **Note:** These skills are under active development for my own purposes. They're iterating quickly and many are half-baked — shared more for inspiration than as polished tools you should copy directly.
+
 ## Available skills
 
 ### Productivity
