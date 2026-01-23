@@ -17,6 +17,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | Skill | Description |
 |-------|-------------|
 | [ask-many-models](https://github.com/HartreeWorks/skill--ask-many-models) | Query multiple AI models in parallel and synthesise responses into unified analysis. |
+| [deep-research](https://github.com/HartreeWorks/skill--deep-research) | Run comprehensive research using multiple AI deep research models (OpenAI o3, Gemini) in parallel. |
 | [chief-of-staff](https://github.com/HartreeWorks/skill--chief-of-staff) | Daily briefings integrating calendar, projects, activity tracking, and AI capability suggestions. |
 | [proofread](https://github.com/HartreeWorks/skill--proofread) | AI-powered proofreading using Gemini Flash for spelling, grammar, style, and clarity. |
 | [project-management](https://github.com/HartreeWorks/skill--project-management) | Manage projects with scaffolding, Google Docs integration, and memory. |
