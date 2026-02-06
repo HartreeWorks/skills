@@ -59,6 +59,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | Skill | Description |
 |-------|-------------|
 | [save-conversation](https://github.com/HartreeWorks/skill--save-conversation) | Export Claude Code conversations to readable markdown files. |
+| [save-for-later](https://github.com/HartreeWorks/skill--save-for-later) | Save conversations to a registry for later resumption, with session discovery and cleanup. |
 | [share-command](https://github.com/HartreeWorks/skill--share-command) | Publish user-defined commands to the HartreeWorks/claude-commands repository. |
 | [share-plugin](https://github.com/HartreeWorks/skill--share-plugin) | Publish plugins to the HartreeWorks plugins marketplace. |
 | [share-scripts](https://github.com/HartreeWorks/skill--share-scripts) | Publish scripts from ~/.claude/scripts/ to the HartreeWorks/claude-scripts repository. |
