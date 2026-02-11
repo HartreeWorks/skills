@@ -19,6 +19,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [ask-many-models](https://github.com/HartreeWorks/skill--ask-many-models) | Query multiple AI models in parallel and synthesise responses into unified analysis. Includes deep research mode (OpenAI, Gemini). |
 | [best-of-n](https://github.com/HartreeWorks/skill--best-of-n) | Query each AI model N times with temperature variation, pick the best response per model, then synthesise across models. Includes brainstorm mode. |
 | [chief-of-staff](https://github.com/HartreeWorks/skill--chief-of-staff) | Daily briefings integrating calendar, projects, activity tracking, and AI capability suggestions. |
+| [day-tracker](https://github.com/HartreeWorks/skill--day-tracker) | Local-first screenshot-based time tracker with AI analysis, timeline view, and invoicing export. |
 | [proofread](https://github.com/HartreeWorks/skill--proofread) | AI-powered proofreading using Gemini Flash for spelling, grammar, style, and clarity. |
 | [project-management](https://github.com/HartreeWorks/skill--project-management) | Manage projects with scaffolding, Google Docs integration, and memory. |
 | [schedule-task](https://github.com/HartreeWorks/skill--schedule-task) | Manage macOS launchd LaunchAgents for scheduled command execution. |
