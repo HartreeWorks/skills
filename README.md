@@ -46,7 +46,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 |-------|-------------|
 | [french-tutor](https://github.com/HartreeWorks/skill--french-tutor) | French language tutor for translation, correction, and answering questions. |
 | [lesswrong-and-ea-forum](https://github.com/HartreeWorks/claude-skill--lesswrong-and-ea-forum) | Read, search, and create draft posts on LessWrong and EA Forum. |
-| [mochi-srs](https://github.com/HartreeWorks/skill--mochi-srs) | Create and manage spaced repetition flashcards in Mochi. |
+| [mochi-srs](https://github.com/HartreeWorks/skill--mochi-srs) | Create flashcards and run conversational spaced repetition reviews using Mochi. |
 
 ### Security
 
