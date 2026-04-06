@@ -26,6 +26,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [send-email](https://github.com/HartreeWorks/skill--send-email) | Send emails via Gmail SMTP with preview and confirmation. Simple App Password auth - no API keys needed. |
 | [slack](https://github.com/HartreeWorks/skill--slack) | Send and read Slack messages, check notifications, and search message history. |
 | [summarise-granola](https://github.com/HartreeWorks/skill--summarise-granola) | Extract and summarise meeting transcripts from the Granola app. |
+| [toggl-report](https://github.com/HartreeWorks/skill--toggl-report) | Download Toggl PDF reports, fetch time entries as JSON, create entries, and list projects/workspaces. |
 
 ### Content & Media
 
