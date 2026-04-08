@@ -28,12 +28,17 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [summarise-granola](https://github.com/HartreeWorks/skill--summarise-granola) | Extract and summarise meeting transcripts from the Granola app. |
 | [toggl-report](https://github.com/HartreeWorks/skill--toggl-report) | Download Toggl PDF reports, fetch time entries as JSON, create entries, and list projects/workspaces. |
 
-### Content & Media
+### AI Wow blog
 
 | Skill | Description |
 |-------|-------------|
 | [ai-wow-blog-edit](https://github.com/HartreeWorks/skill--ai-wow-blog-edit) | Review blog posts for style and clarity using detailed writing guidelines and house style rules. |
 | [ai-wow-blog-publish](https://github.com/HartreeWorks/skill--ai-wow-blog-publish) | Publish blog posts with validation, proofreading, link checking, and date management. |
+
+### Content & Media
+
+| Skill | Description |
+|-------|-------------|
 | [download-twitter-video](https://github.com/HartreeWorks/skill--download-twitter-video) | Download videos from Twitter/X posts using yt-dlp. |
 | [make-image](https://github.com/HartreeWorks/skill--make-image) | Generate, edit, and upscale images using Krea AI. |
 | [transcribe-audio](https://github.com/HartreeWorks/skill--transcribe-audio) | Transcribe audio files using Parakeet MLX. |
