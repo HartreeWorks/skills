@@ -4,7 +4,7 @@ A collection of skills for [Claude Code](https://claude.com/claude-code) and oth
 
 Created by [Peter Hartree](https://x.com/peterhartree) of [AI Wow](https://wow.pjh.is).
 
-> ⚠️ **Note:** These are skills I’ve made for my own use. Some are very half-baked—shared for inspiration rather than as polished tools.
+> ⚠️ **Note:** These are skills I've made for my own use. Some are very half-baked—shared for inspiration rather than as polished tools.
 
 ## Installation
 
@@ -32,6 +32,8 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 
 | Skill | Description |
 |-------|-------------|
+| [ai-wow-blog-edit](https://github.com/HartreeWorks/skill--ai-wow-blog-edit) | Review blog posts for style and clarity using detailed writing guidelines and house style rules. |
+| [ai-wow-blog-publish](https://github.com/HartreeWorks/skill--ai-wow-blog-publish) | Publish blog posts with validation, proofreading, link checking, and date management. |
 | [download-twitter-video](https://github.com/HartreeWorks/skill--download-twitter-video) | Download videos from Twitter/X posts using yt-dlp. |
 | [make-image](https://github.com/HartreeWorks/skill--make-image) | Generate, edit, and upscale images using Krea AI. |
 | [transcribe-audio](https://github.com/HartreeWorks/skill--transcribe-audio) | Transcribe audio files using Parakeet MLX. |
