@@ -57,6 +57,12 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [lesswrong-and-ea-forum](https://github.com/HartreeWorks/claude-skill--lesswrong-and-ea-forum) | Read, search, and create draft posts on LessWrong and EA Forum. |
 | [mochi-srs](https://github.com/HartreeWorks/skill--mochi-srs) | Create flashcards and run conversational spaced repetition reviews using Mochi. |
 
+### Travel
+
+| Skill | Description |
+|-------|-------------|
+| [find-flights](https://github.com/HartreeWorks/skill--find-flights) | Search flexible-date flight options and rank them by price, routing, baggage, seats, and time trade-offs. |
+
 ### Security
 
 | Skill | Description |
