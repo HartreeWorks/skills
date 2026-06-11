@@ -21,6 +21,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [chief-of-staff](https://github.com/HartreeWorks/skill--chief-of-staff) | Daily briefings integrating calendar, week-plan priorities, email/WhatsApp triage, and agent activity, plus schedule refreshes and accountability recaps. |
 | [commit-review](https://github.com/HartreeWorks/skill--commit-review) | Analyse uncommitted changes, group into logical changesets, and interactively commit each group. |
 | [day-tracker](https://github.com/HartreeWorks/skill--day-tracker) | Local-first screenshot-based time tracker with AI analysis, timeline view, and invoicing export. |
+| [pane](https://github.com/HartreeWorks/skill--pane) | Branch the current conversation into fresh Claude/Codex sessions in new Warp panes, tabs, or windows, each seeded with a handoff prompt; supports forking the current session. |
 | [proofread](https://github.com/HartreeWorks/skill--proofread) | AI-powered proofreading using Gemini Flash for spelling, grammar, style, and clarity. |
 | [project-management](https://github.com/HartreeWorks/skill--project-management) | Manage projects with scaffolding, Google Docs integration, and memory. |
 | [schedule-task](https://github.com/HartreeWorks/skill--schedule-task) | Manage macOS launchd LaunchAgents for scheduled command execution. |
