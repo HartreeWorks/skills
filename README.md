@@ -21,14 +21,16 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [chief-of-staff](https://github.com/HartreeWorks/skill--chief-of-staff) | Daily briefings integrating calendar, week-plan priorities, email/WhatsApp triage, and agent activity, plus schedule refreshes and accountability recaps. |
 | [commit-review](https://github.com/HartreeWorks/skill--commit-review) | Analyse uncommitted changes, group into logical changesets, and interactively commit each group. |
 | [day-tracker](https://github.com/HartreeWorks/skill--day-tracker) | Local-first screenshot-based time tracker with AI analysis, timeline view, and invoicing export. |
-| [pane](https://github.com/HartreeWorks/skill--pane) | Branch the current conversation into fresh Claude/Codex sessions in new Warp panes, tabs, or windows, each seeded with a handoff prompt; supports forking the current session. |
+| [pane](https://github.com/HartreeWorks/skill--pane) | Branch the current conversation into a fresh Claude/Codex session in a new Warp split pane, seeded with a handoff prompt; supports forking the current session. |
 | [proofread](https://github.com/HartreeWorks/skill--proofread) | AI-powered proofreading using Gemini Flash for spelling, grammar, style, and clarity. |
+| [tab](https://github.com/HartreeWorks/skill--tab) | Branch the current conversation into a fresh Claude/Codex session in a new Warp tab (same window), seeded with a handoff prompt; supports forking the current session. |
 | [project-management](https://github.com/HartreeWorks/skill--project-management) | Manage projects with scaffolding, Google Docs integration, and memory. |
 | [schedule-task](https://github.com/HartreeWorks/skill--schedule-task) | Manage macOS launchd LaunchAgents for scheduled command execution. |
 | [send-email](https://github.com/HartreeWorks/skill--send-email) | Send emails via Gmail SMTP with preview and confirmation. Simple App Password auth - no API keys needed. |
 | [slack](https://github.com/HartreeWorks/skill--slack) | Send and read Slack messages, check notifications, and search message history. |
 | [summarise-granola](https://github.com/HartreeWorks/skill--summarise-granola) | Extract and summarise meeting transcripts from the Granola app. |
 | [toggl-report](https://github.com/HartreeWorks/skill--toggl-report) | Download Toggl PDF reports, fetch time entries as JSON, create entries, and list projects/workspaces. |
+| [window](https://github.com/HartreeWorks/skill--window) | Branch the current conversation into a fresh Claude/Codex session in a new Warp window, seeded with a handoff prompt; supports forking the current session. |
 
 ### AI Wow blog
 
