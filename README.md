@@ -16,12 +16,12 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 
 | Skill | Description |
 |-------|-------------|
-| [ambitious-delegation](https://github.com/HartreeWorks/skill--ambitious-delegation) | Plan, coach, and review ambitious AI delegation projects — pre-flight checklists, mid-stream drift coaching, and post-project retros. |
 | [ask-many-models](https://github.com/HartreeWorks/skill--ask-many-models) | Query multiple AI models in parallel and synthesise responses into unified analysis. Includes deep research mode (OpenAI, Gemini). |
 | [best-of-n](https://github.com/HartreeWorks/skill--best-of-n) | Query each AI model N times with temperature variation, pick the best response per model, then synthesise across models. Includes brainstorm mode. |
 | [chief-of-staff](https://github.com/HartreeWorks/skill--chief-of-staff) | Daily briefings integrating calendar, week-plan priorities, email/WhatsApp triage, and agent activity, plus schedule refreshes and accountability recaps. |
 | [commit-review](https://github.com/HartreeWorks/skill--commit-review) | Analyse uncommitted changes, group into logical changesets, and interactively commit each group. |
 | [day-tracker](https://github.com/HartreeWorks/skill--day-tracker) | Local-first screenshot-based time tracker with AI analysis, timeline view, and invoicing export. |
+| [own-it](https://github.com/HartreeWorks/skill--own-it) | Plan, coach, and review high-autonomy AI projects with problem-framing gates, clear authority boundaries, drift checks, and post-project retros. |
 | [pane](https://github.com/HartreeWorks/skill--pane) | Branch the current conversation into a fresh Claude/Codex session in a new Warp split pane, seeded with a handoff prompt; supports forking the current session. |
 | [proofread](https://github.com/HartreeWorks/skill--proofread) | AI-powered proofreading using Gemini Flash for spelling, grammar, style, and clarity. |
 | [tab](https://github.com/HartreeWorks/skill--tab) | Branch the current conversation into a fresh Claude/Codex session in a new Warp tab (same window), seeded with a handoff prompt; supports forking the current session. |
