@@ -89,3 +89,4 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [share-skill](https://github.com/HartreeWorks/skill--share-skill) | Convert private skills into public GitHub repositories with security review. |
 | [sync-skill-to-claude-desktop](https://github.com/HartreeWorks/skill--sync-skill-to-claude-desktop) | Upload Claude Code skills to claude.ai for use in Claude Desktop. |
 | [update-skills](https://github.com/HartreeWorks/skill--update-skills) | Check for and apply updates to shared Claude Code skills. |
+| [visual-review](https://github.com/HartreeWorks/skill--visual-review) | Structured visual QA for UI — a breakpoint/state screenshot matrix, alignment and measurement checklist, and coverage ledger for catching visual defects tests can't see. |
