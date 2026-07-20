@@ -24,14 +24,14 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [own-it](https://github.com/HartreeWorks/skill--own-it) | Plan, coach, and review high-autonomy AI projects with problem-framing gates, clear authority boundaries, drift checks, and post-project retros. |
 | [pane](https://github.com/HartreeWorks/skill--pane) | Branch the current conversation into a fresh Claude/Codex session in a new Warp split pane, seeded with a handoff prompt; supports forking the current session. |
 | [proofread](https://github.com/HartreeWorks/skill--proofread) | AI-powered proofreading using Gemini Flash for spelling, grammar, style, and clarity. |
-| [tab](https://github.com/HartreeWorks/skill--tab) | Branch the current conversation into a fresh Claude/Codex session in a new Warp tab (same window), seeded with a handoff prompt; supports forking the current session. |
+| [tab](https://github.com/HartreeWorks/skill--tab) | Branch the current conversation into a fresh Claude/Codex session in a new Warp tab (same window), seeded with a handoff prompt; supports forking the current session. Requires the pane skill. |
 | [project-management](https://github.com/HartreeWorks/skill--project-management) | Manage projects with scaffolding, Google Docs integration, and memory. |
 | [schedule-task](https://github.com/HartreeWorks/skill--schedule-task) | Manage macOS launchd LaunchAgents for scheduled command execution. |
 | [send-email](https://github.com/HartreeWorks/skill--send-email) | Send emails via Gmail SMTP with preview and confirmation. Simple App Password auth - no API keys needed. |
 | [slack](https://github.com/HartreeWorks/skill--slack) | Send and read Slack messages, check notifications, and search message history. |
 | [summarise-granola](https://github.com/HartreeWorks/skill--summarise-granola) | Extract and summarise meeting transcripts from the Granola app. |
 | [toggl-report](https://github.com/HartreeWorks/skill--toggl-report) | Download Toggl PDF reports, fetch time entries as JSON, create entries, and list projects/workspaces. |
-| [window](https://github.com/HartreeWorks/skill--window) | Branch the current conversation into a fresh Claude/Codex session in a new Warp window, seeded with a handoff prompt; supports forking the current session. |
+| [window](https://github.com/HartreeWorks/skill--window) | Branch the current conversation into a fresh Claude/Codex session in a new Warp window, seeded with a handoff prompt; supports forking the current session. Requires the pane skill. |
 
 ### AI Wow blog
 
