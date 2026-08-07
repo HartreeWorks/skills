@@ -26,6 +26,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [proofread](https://github.com/HartreeWorks/skill--proofread) | AI-powered proofreading using Gemini Flash for spelling, grammar, style, and clarity. |
 | [tab](https://github.com/HartreeWorks/skill--tab) | Branch the current conversation into a fresh Claude/Codex session in a new Warp tab (same window), seeded with a handoff prompt; supports forking the current session. Requires the pane skill. |
 | [project-management](https://github.com/HartreeWorks/skill--project-management) | Manage projects with scaffolding, Google Docs integration, and memory. |
+| [retro](https://github.com/HartreeWorks/skill--retro) | Log complete Claude Code or Codex conversations for later retrospective analysis. |
 | [schedule-task](https://github.com/HartreeWorks/skill--schedule-task) | Manage macOS launchd LaunchAgents for scheduled command execution. |
 | [send-email](https://github.com/HartreeWorks/skill--send-email) | Send emails via Gmail SMTP with preview and confirmation. Simple App Password auth - no API keys needed. |
 | [slack](https://github.com/HartreeWorks/skill--slack) | Send and read Slack messages, check notifications, and search message history. |
