@@ -51,6 +51,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [transcribe-call](https://github.com/HartreeWorks/skill--transcribe-call) | Record and transcribe meetings/calls using local Parakeet MLX transcription. |
 | [transcribe-twitter-video](https://github.com/HartreeWorks/skill--transcribe-twitter-video) | Download and transcribe audio from Twitter/X video posts. |
 | [twitter](https://github.com/HartreeWorks/skill--twitter) | Read tweets, threads, and user timelines using the bird CLI. |
+| [xurl](https://github.com/HartreeWorks/skill--xurl) | Research practitioner knowledge and use the authenticated X API to read, publish, and manage social actions. |
 | [youtube-download](https://github.com/HartreeWorks/skill--youtube-download) | Download videos and audio from YouTube using yt-dlp. |
 | [youtube-transcribe](https://github.com/HartreeWorks/skill--youtube-transcribe) | Transcribe YouTube videos using Parakeet MLX. |
 
