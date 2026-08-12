@@ -46,6 +46,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | Skill | Description |
 |-------|-------------|
 | [download-twitter-video](https://github.com/HartreeWorks/skill--download-twitter-video) | Download videos from Twitter/X posts using yt-dlp. |
+| [gdoc-footnotes-to-substack](https://github.com/HartreeWorks/skill--gdoc-footnotes-to-substack) | Convert a Google Doc into a Substack draft post, preserving footnotes as native Substack footnotes. |
 | [make-image](https://github.com/HartreeWorks/skill--make-image) | Generate, edit, and upscale images using Krea AI. |
 | [transcribe-audio](https://github.com/HartreeWorks/skill--transcribe-audio) | Transcribe audio files using Parakeet MLX. |
 | [transcribe-call](https://github.com/HartreeWorks/skill--transcribe-call) | Record and transcribe meetings/calls using local Parakeet MLX transcription. |
