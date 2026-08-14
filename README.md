@@ -24,6 +24,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [own-it](https://github.com/HartreeWorks/skill--own-it) | Plan, coach, and review high-autonomy AI projects with problem-framing gates, clear authority boundaries, drift checks, and post-project retros. |
 | [pane](https://github.com/HartreeWorks/skill--pane) | Branch the current conversation into a fresh Claude/Codex session in a new Warp split pane, seeded with a handoff prompt; supports forking the current session. |
 | [proofread](https://github.com/HartreeWorks/skill--proofread) | AI-powered proofreading using Gemini Flash for spelling, grammar, style, and clarity. |
+| [proofread-gdoc](https://github.com/HartreeWorks/skill--proofread-gdoc) | Proof of concept: proofread a Google Doc and write the edits back as real tracked suggestions, each with an anchored comment explaining it. |
 | [tab](https://github.com/HartreeWorks/skill--tab) | Branch the current conversation into a fresh Claude/Codex session in a new Warp tab (same window), seeded with a handoff prompt; supports forking the current session. Requires the pane skill. |
 | [project-management](https://github.com/HartreeWorks/skill--project-management) | Manage projects with scaffolding, Google Docs integration, and memory. |
 | [retro](https://github.com/HartreeWorks/skill--retro) | Log complete Claude Code or Codex conversations for later retrospective analysis. |
