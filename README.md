@@ -20,7 +20,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [best-of-n](https://github.com/HartreeWorks/skill--best-of-n) | Query each AI model N times with temperature variation, pick the best response per model, then synthesise across models. Includes brainstorm mode. |
 | [chief-of-staff](https://github.com/HartreeWorks/skill--chief-of-staff) | Daily briefings integrating calendar, week-plan priorities, email/WhatsApp triage, and agent activity, plus schedule refreshes and accountability recaps. |
 | [commit-review](https://github.com/HartreeWorks/skill--commit-review) | Analyse uncommitted changes, group into logical changesets, and interactively commit each group. |
-| [day-tracker](https://github.com/HartreeWorks/skill--day-tracker) | Local-first screenshot-based time tracker with AI analysis, timeline view, and invoicing export. |
+| [day-tracker](https://github.com/HartreeWorks/skill--day-tracker) | Screenshot-based time tracking with AI captions, a local timeline, and daily recaps. |
 | [fact-check](https://github.com/HartreeWorks/skill--fact-check) | Fact-checks a draft document, web page or Google Doc against its sources, producing a review page with every claim highlighted and its verbatim evidence on hover, a findings file, and optional suggested edits in the Google Doc. |
 | [ofac-screen](https://github.com/HartreeWorks/skill--ofac-screen) | Screen payees against OFAC sanctions lists and save matching evidence for review. |
 | [own-it](https://github.com/HartreeWorks/skill--own-it) | Plan, coach, and review high-autonomy AI projects with problem-framing gates, clear authority boundaries, drift checks, and post-project retros. |
