@@ -18,6 +18,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 |-------|-------------|
 | [ask-many-models](https://github.com/HartreeWorks/skill--ask-many-models) | Query multiple AI models in parallel and synthesise responses into unified analysis. Includes deep research mode (OpenAI, Gemini). |
 | [best-of-n](https://github.com/HartreeWorks/skill--best-of-n) | Query each AI model N times with temperature variation, pick the best response per model, then synthesise across models. Includes brainstorm mode. |
+| [botec](https://github.com/HartreeWorks/skill--botec) | Build back-of-the-envelope estimates with independent model drafts, sourced assumptions, sensitivity analysis and an interactive model. |
 | [chief-of-staff](https://github.com/HartreeWorks/skill--chief-of-staff) | Daily briefings integrating calendar, week-plan priorities, email/WhatsApp triage, and agent activity, plus schedule refreshes and accountability recaps. |
 | [commit-review](https://github.com/HartreeWorks/skill--commit-review) | Analyse uncommitted changes, group into logical changesets, and interactively commit each group. |
 | [day-tracker](https://github.com/HartreeWorks/skill--day-tracker) | Screenshot-based time tracking with AI captions, a local timeline, and daily recaps. |
