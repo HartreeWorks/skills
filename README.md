@@ -34,7 +34,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 | [roughdraft](https://github.com/HartreeWorks/skill--roughdraft) | Open Markdown files in Roughdraft for review, process the resulting comments and suggested edits, and write CriticMarkup feedback. |
 | [schedule-task](https://github.com/HartreeWorks/skill--schedule-task) | Manage macOS launchd LaunchAgents for scheduled command execution. |
 | [send-email](https://github.com/HartreeWorks/skill--send-email) | Send emails via Gmail SMTP with preview and confirmation. Simple App Password auth - no API keys needed. |
-| [slack](https://github.com/HartreeWorks/skill--slack) | Send and read Slack messages, check notifications, and search message history. |
+| [slack](https://github.com/HartreeWorks/skill--slack) | Search, digest, export, and send Slack messages across multiple workspaces. |
 | [summarise-granola](https://github.com/HartreeWorks/skill--summarise-granola) | Extract and summarise meeting transcripts from the Granola app. |
 | [toggl-report](https://github.com/HartreeWorks/skill--toggl-report) | Download Toggl PDF reports, fetch time entries as JSON, create entries, and list projects/workspaces. |
 | [window](https://github.com/HartreeWorks/skill--window) | Branch the current conversation into a fresh Claude/Codex session in a new Warp window, seeded with a handoff prompt; supports forking the current session. Requires the pane skill. |
