@@ -74,7 +74,8 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 
 | Skill | Description |
 |-------|-------------|
-| [find-flights](https://github.com/HartreeWorks/skill--find-flights) | Search flexible-date flight options and rank them by price, routing, baggage, seats, and time trade-offs. |
+| [find-airbnb](https://github.com/HartreeWorks/skill--find-airbnb) | Search Airbnb and rank listings against a taste profile built from your past stays, with a short rationale for each score. |
+| [find-flights](https://github.com/HartreeWorks/skill--find-flights) | Search flexible-date flights across Google Flights and Skyscanner and rank them by price, routing, baggage, seats, and time trade-offs. |
 | [find-hotel](https://github.com/HartreeWorks/skill--find-hotel) | Search hotels, cross-check Booking.com against the property's direct site, and drive a reservation up to the payment step. |
 | [find-trains](https://github.com/HartreeWorks/skill--find-trains) | Search European rail options on Trainline, escalate to Deutsche Bahn for complex routings, and prepare a Trainline booking. |
 
