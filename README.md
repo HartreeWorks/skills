@@ -86,6 +86,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 |-------|-------------|
 | [audit-mac-app](https://github.com/HartreeWorks/skill--audit-mac-app) | Security audit macOS applications before granting sensitive permissions. |
 | [secure-mcp-install](https://github.com/HartreeWorks/skill--secure-mcp-install) | Security-focused workflow to audit and install MCP servers at pinned commits. |
+| [watermark-id](https://github.com/HartreeWorks/skill--watermark-id) | Watermark copies of ID documents with recipient, purpose and date before your agent sends them, locally and with metadata stripped. |
 
 ### Claude Code Helpers
 
