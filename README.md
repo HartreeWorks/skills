@@ -92,6 +92,7 @@ Paste the GitHub URL into Claude Code, and ask it to install the skill.
 
 | Skill | Description |
 |-------|-------------|
+| [add-auto-update](https://github.com/HartreeWorks/skill--add-auto-update) | Add update checks to the skills you publish, so users are offered each release and their agent reviews the code changes before installing. |
 | [chrome-extension-dev](https://github.com/HartreeWorks/skill--chrome-extension-dev) | Develop and test Chrome extensions using Claude in Chrome MCP tools with a reload-test-verify loop. |
 | [save-conversation](https://github.com/HartreeWorks/skill--save-conversation) | Export Claude Code conversations to readable markdown files. |
 | [save-for-later](https://github.com/HartreeWorks/skill--save-for-later) | Save conversations to a registry for later resumption, with session discovery and cleanup. |
